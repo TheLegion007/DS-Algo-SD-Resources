@@ -1,3 +1,4 @@
+# https://archive.org/details/system-design-interview-an-insiders-guide-by-alex-xu-z-lib.org/page/n5/mode/2up?view=theater
 # [Resources and training material](https://github.com/neerazz/DS-Algo-SD-Resources)
 
 - DataStructures & Algorithm
